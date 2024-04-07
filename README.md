@@ -4,7 +4,11 @@
 
 ## My work
 
-### CI/CD Tools
+### Server management
+
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png"></code> [ansible-ubuntu-provision](https://github.com/riccardotornesello/ansible-ubuntu-provision)
+
+### CI/CD tools
 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/portainer/portainer.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> [portainer-git-deployer](https://github.com/riccardotornesello/portainer-git-deployer)
 
