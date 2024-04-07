@@ -10,7 +10,7 @@
 
 ### CI/CD tools
 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/portainer/portainer.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> [portainer-git-deployer](https://github.com/riccardotornesello/portainer-git-deployer)
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/portainer/portainer.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> [portainer-cli-deployer](https://github.com/riccardotornesello/portainer-cli-deployer)
 
 ### 🏎️ SimRacing telemetry
 
