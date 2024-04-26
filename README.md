@@ -8,6 +8,7 @@
 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png"></code> [ansible-ubuntu-provision](https://github.com/riccardotornesello/ansible-ubuntu-provision)
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cryptography/cryptography.png"></code> [ca-manager](https://github.com/riccardotornesello/ca-manager)
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code> [docker-compose-templates](https://github.com/riccardotornesello/docker-compose-templates)
 
 ### CI/CD tools
 
@@ -17,3 +18,11 @@
 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code> [f1-23-parser-go](https://github.com/riccardotornesello/f1-23-parser-go)
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code> [motec-ld-go](https://github.com/riccardotornesello/motec-ld-go)
+
+### My experiments
+
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code> [ai-exercises](https://github.com/riccardotornesello/ai-exercises)
+
+### My past as CTF player
+
+- [r00tstici writeups](https://github.com/r00tstici/writeups)
