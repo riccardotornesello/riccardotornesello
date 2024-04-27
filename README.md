@@ -12,7 +12,7 @@
 
 ### CI/CD tools
 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/portainer/portainer.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> [portainer-cli-deployer](https://github.com/riccardotornesello/portainer-cli-deployer)
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/portainer/portainer.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> [portainer-cli-deployer](https://github.com/riccardotornesello/portainer-cli-deployer): CLI tool to easily deploy a container stacks to Portainer
 
 ### 🏎️ SimRacing telemetry
 
