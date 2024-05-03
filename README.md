@@ -22,6 +22,7 @@
 ### My experiments
 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code> [ai-exercises](https://github.com/riccardotornesello/ai-exercises)
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code> [os161-demand-paging](https://github.com/riccardotornesello/os161-demand-paging)
 
 ### My past as CTF player
 
