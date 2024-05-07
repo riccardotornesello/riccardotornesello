@@ -26,4 +26,5 @@
 
 ### My past as CTF player
 
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> [CTFd-SSO-plugin](https://github.com/riccardotornesello/CTFd-SSO-plugin)
 - [r00tstici writeups](https://github.com/r00tstici/writeups)
