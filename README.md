@@ -6,9 +6,9 @@
 
 ### Server management
 
+- ⭐ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code> [docker-compose-templates](https://github.com/riccardotornesello/docker-compose-templates)
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png"></code> [ansible-ubuntu-provision](https://github.com/riccardotornesello/ansible-ubuntu-provision)
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cryptography/cryptography.png"></code> [ca-manager](https://github.com/riccardotornesello/ca-manager)
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code> [docker-compose-templates](https://github.com/riccardotornesello/docker-compose-templates)
 
 ### CI/CD tools
 
