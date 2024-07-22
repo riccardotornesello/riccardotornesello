@@ -3,6 +3,9 @@
 ## Table of contents
 
 - [My work](#my-work)
+  - [Server management](#server-management)
+  - [CI/CD tools](#cicd-tools)
+  - [🏎️ SimRacing telemetry](#simracing-telemetry)
 
 ## My work
 
