@@ -1,6 +1,8 @@
 # Hi there, I'm Riccardo 👋
 
-🚧 This description is not complete but I am slowly working to improve it. Check back soon. 😊
+## Table of contents
+
+- [My work](#my-work)
 
 ## My work
 
