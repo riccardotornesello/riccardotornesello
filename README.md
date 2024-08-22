@@ -2,25 +2,16 @@
 
 ## My work
 
-### Server management
+Among my repos you can find many experiments, past projects and useful tools to improve my work that can help you too. I will summarize the main ones.
 
-- ⭐ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code> [docker-compose-templates](https://github.com/riccardotornesello/docker-compose-templates)
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png"></code> [ansible-ubuntu-provision](https://github.com/riccardotornesello/ansible-ubuntu-provision)
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cryptography/cryptography.png"></code> [ca-manager](https://github.com/riccardotornesello/ca-manager)
+### 💻 Server management, DevOps and CI/CD utilities.
 
-### CI/CD tools
+An important part of my work involves managing systems, deploying web applications and automating frequent tasks, so Docker, containers and Linux are the basis of my knowledge.
 
-- ⭐ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/portainer/portainer.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> [portainer-cli-deployer](https://github.com/riccardotornesello/portainer-cli-deployer): CLI tool to easily deploy a container stacks to Portainer
+Here you can find some useful resources and tools to speed up the work, as well as some interesting projects useful to understand in detail how computer systems work.
 
-### 🏎️ SimRacing telemetry
-
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code> [f1-23-parser-go](https://github.com/riccardotornesello/f1-23-parser-go)
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code> [motec-ld-go](https://github.com/riccardotornesello/motec-ld-go)
-
-### My experiments
-
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code> [ai-exercises](https://github.com/riccardotornesello/ai-exercises)
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code> [os161-demand-paging](https://github.com/riccardotornesello/os161-demand-paging)
+- [portainer-cli-deployer](https://github.com/riccardotornesello/portainer-cli-deployer): CLI tool to easily deploy a container stacks to Portainer. Built in Typescript.
+- [os161-demand-paging](https://github.com/riccardotornesello/os161-demand-paging): university group project in which an os161-based operating system was created with demand paging and many optimizations
 
 ### 🚩 CTF (the hacking competitions)
 
