@@ -28,3 +28,4 @@ With this team I also got to organize CTFs, so here you can find CTFd plugins an
 I work with computers for passion but I am a professional simracer. Obviously I'm joking but simracing is a big passion of mine so over time I got into creating some tools or libraries for example to interface with games and extract telemetry from them.
 
 - [irsdk-go](https://github.com/riccardotornesello/irsdk-go): porting of the official iRacing SDK from C++ to GoLang
+- [motec-ld-go](https://github.com/riccardotornesello/motec-ld-go): Go library to write Motec LD telemetry files
