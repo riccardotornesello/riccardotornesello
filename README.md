@@ -29,3 +29,7 @@ I work with computers for passion but I am a professional simracer. Obviously I'
 
 - [irsdk-go](https://github.com/riccardotornesello/irsdk-go): porting of the official iRacing SDK from C++ to GoLang
 - [motec-ld-go](https://github.com/riccardotornesello/motec-ld-go): Go library to write Motec LD telemetry files
+
+### 🧩 Templates
+
+- [Keil LandTiger LPC1768](https://github.com/riccardotornesello/Template-Keil-LandTiger-LPC1768): Keil uVision project template for the LandTiger board (LPC1768 ARM Cortex-M3) with basic functionalities (ASM and C)
