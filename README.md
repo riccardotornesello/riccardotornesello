@@ -33,3 +33,4 @@ I work with computers for passion but I am a professional simracer. Obviously I'
 ### 🧩 Templates
 
 - [Keil LandTiger LPC1768](https://github.com/riccardotornesello/Template-Keil-LandTiger-LPC1768): Keil uVision project template for the LandTiger board (LPC1768 ARM Cortex-M3) with basic functionalities (ASM and C)
+- [Turborepo Next Shadcn Storybook](https://github.com/riccardotornesello/template-turborepo-next-shadcn-storybook): monorepo powered by Turborepo that includes a Next.js web app, Storybook and shadcn UI components
