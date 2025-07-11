@@ -39,3 +39,4 @@ I work with computers for passion but I am a professional simracer. Obviously I'
 Here are some projects that I am proud of or have had fun with. They were created during college courses or by my own to learn.
 
 - [os161-demand-paging](https://github.com/riccardotornesello/os161-demand-paging): university group project in which an os161-based operating system was created with demand paging and many optimizations (C)
+- [network-monitoring-ebpf](https://github.com/riccardotornesello/network-monitoring-ebpf): university course lab to experiment with eBPF and traffic analysis (C, eBPF)
