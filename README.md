@@ -11,7 +11,6 @@ An important part of my work involves managing systems, deploying web applicatio
 Here you can find some useful resources and tools to speed up the work, as well as some interesting projects useful to understand in detail how computer systems work.
 
 - [portainer-cli-deployer](https://github.com/riccardotornesello/portainer-cli-deployer): CLI tool to easily deploy a container stacks to Portainer. Built in Typescript.
-- [os161-demand-paging](https://github.com/riccardotornesello/os161-demand-paging): university group project in which an os161-based operating system was created with demand paging and many optimizations
 
 ### 🚩 Cybersecurity and CTF (the hacking competitions)
 
@@ -32,5 +31,11 @@ I work with computers for passion but I am a professional simracer. Obviously I'
 
 ### 🧩 Templates
 
-- [Keil LandTiger LPC1768](https://github.com/riccardotornesello/Template-Keil-LandTiger-LPC1768): Keil uVision project template for the LandTiger board (LPC1768 ARM Cortex-M3) with basic functionalities (ASM and C)
-- [Turborepo Next Shadcn Storybook](https://github.com/riccardotornesello/template-turborepo-next-shadcn-storybook): monorepo powered by Turborepo that includes a Next.js web app, Storybook and shadcn UI components
+- [Keil LandTiger LPC1768](https://github.com/riccardotornesello/Template-Keil-LandTiger-LPC1768): Keil uVision project template for the LandTiger board (LPC1768 ARM Cortex-M3) with basic functionalities (ASM, C)
+- [Turborepo Next Shadcn Storybook](https://github.com/riccardotornesello/template-turborepo-next-shadcn-storybook): monorepo powered by Turborepo that includes a Next.js web app, Storybook and shadcn UI components (JS, TS)
+
+### 🏫 Educational project
+
+Here are some projects that I am proud of or have had fun with. They were created during college courses or by my own to learn.
+
+- [os161-demand-paging](https://github.com/riccardotornesello/os161-demand-paging): university group project in which an os161-based operating system was created with demand paging and many optimizations (C)
